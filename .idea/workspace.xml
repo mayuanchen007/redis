@@ -3,8 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="75c03e00-9a7d-4a48-8520-94f8d50a6c90" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/tx/Application.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/tx/Application.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -64,7 +62,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1606227359538</updated>
-      <workItem from="1606227362819" duration="4107000" />
+      <workItem from="1606227362819" duration="5719000" />
     </task>
     <task id="LOCAL-00001" summary="第一次提交 addby mmyc">
       <created>1606228257769</created>
@@ -87,7 +85,21 @@
       <option name="project" value="LOCAL" />
       <updated>1606229859732</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="第三次提交 addby mmyc">
+      <created>1606231576547</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1606231576547</updated>
+    </task>
+    <task id="LOCAL-00005" summary="第二次提交 addby mmyc">
+      <created>1606231617744</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1606231617744</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -105,15 +117,16 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="第二次提交 addby mmyc" />
     <MESSAGE value="第一次提交 addby mmyc" />
-    <option name="LAST_COMMIT_MESSAGE" value="第一次提交 addby mmyc" />
+    <MESSAGE value="第三次提交 addby mmyc" />
+    <MESSAGE value="第二次提交 addby mmyc" />
+    <option name="LAST_COMMIT_MESSAGE" value="第二次提交 addby mmyc" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="251" y="0" width="1260" height="807" key="CommitChangelistDialog2" timestamp="1606231602703">
+    <state x="251" y="0" width="1260" height="807" key="CommitChangelistDialog2" timestamp="1606231616895">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="251" y="0" width="1260" height="807" key="CommitChangelistDialog2/0.0.1536.824@0.0.1536.824" timestamp="1606231602703" />
+    <state x="251" y="0" width="1260" height="807" key="CommitChangelistDialog2/0.0.1536.824@0.0.1536.824" timestamp="1606231616895" />
     <state width="293" height="442" key="Diff.GoToChangePopup" timestamp="1606228769217">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
